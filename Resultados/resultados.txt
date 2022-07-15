@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los resultados y la comparación con el número de infectados y retirados eestimados.
