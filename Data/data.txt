@@ -1,0 +1,2 @@
+En esta carpeta se encuentra los data transformada ofrecida por el Minsa (filtrando por departamento de Lima y número de casos nuevos por día). 
+También se encuentra la cantidad de personas estimadas de las clases S, I y R; según se explico en el modelamiento empleando funciones de Excel. 
